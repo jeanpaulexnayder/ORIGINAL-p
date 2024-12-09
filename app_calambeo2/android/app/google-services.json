@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741216793138",
+    "project_id": "app-explora-calambeo-18604",
+    "storage_bucket": "app-explora-calambeo-18604.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741216793138:android:621b58f71f205eb45ec22b",
+        "android_client_info": {
+          "package_name": "com.example.app_calambeo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQ0KV9VMAxD8wgehMU4jnQACcWHn4Pro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
